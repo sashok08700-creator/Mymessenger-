@@ -1,0 +1,4 @@
+flask
+flask-socketio
+pillow
+simple-websocket
