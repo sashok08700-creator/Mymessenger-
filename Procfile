@@ -1,1 +1,1 @@
-web: python chat.py
+web: pip install -r requirements.txt && python chat.py
